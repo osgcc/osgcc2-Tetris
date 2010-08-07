@@ -1,0 +1,21 @@
+Tetris - OSGCC2
+Steve Klabnik, Chuck Davis, Marylou Kunkle
+
+Requirements for building:
+
+DSSS (http://www.dsource.org/projects/dsss)
+DMD (http://www.digitalmars.com/d/download.html)
+SDL, SDL_Mixer, SDL_Image, SDL_ttf
+
+To build: (all in the root directory)
+
+- First install derelict using dsss
+dsss net install derelict
+
+- Build using dsss
+dsss build
+
+To Run:
+
+./main (linux, osx)
+main.exe (windows)

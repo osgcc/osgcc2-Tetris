@@ -1,0 +1,28 @@
+These are binaries required for Windows, not necessary on other systems.
+
+Most of these are from http://gnuwin32.sourceforge.net/, namely these packages:
+
+bsdtar-1.2.38-bin.zip
+bzip2-1.0.3-1-bin.zip
+cygutils-1.2.9-bin.zip [just unix2dos.exe]
+libarchive-1.2.38-bin.zip
+libiconv-1.9.2-1-bin.zip
+libintl-0.11.5-2-bin.zip
+libintl-0.14.4-bin.zip
+openssl-0.9.7c-bin.zip
+patch-2.5.9-6-bin.zip
+popt-1.8-1-bin.zip
+zlib-1.2.3-bin.zip
+
+
+The sources are available from the same site.
+
+
+Also included is curl.exe and its dependencies, from:
+
+http://curl.haxx.se/download/curl-7.16.0-win32-ssl.zip
+
+
+Also included is svn.exe and dependencies, from:
+
+http://subversion.tigris.org/downloads/svn-win32-1.4.0.zip

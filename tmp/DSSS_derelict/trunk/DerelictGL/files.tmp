@@ -1,0 +1,4 @@
+derelict\util\loader.d
+derelict\util\exception.d
+derelict\util\wintypes.d
+derelict\util\wrapper.d
